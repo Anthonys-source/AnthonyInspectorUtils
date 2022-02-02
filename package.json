@@ -1,0 +1,10 @@
+{
+  "name": "com.anthonycookie.anthonysinspectorutilities",
+  "version": "0.0.1",
+  "displayName": "Anthony's Inspector Utilities",
+  "description": "Cookies",
+  "unity": "2020.3",
+  "author": {
+    "name": "Anthony"
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "CookieKat.InspectorUtils.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d285d9c02633274429fedaf97fa3cfb3"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
